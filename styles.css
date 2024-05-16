@@ -54,3 +54,24 @@ body {
 	margin-left: 23%;
 	color: #FFFAF0;
 }
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 20px;
+    margin-top: 10%;
+  }
+
+  .center-button {
+    margin-top: 10%;
+  }
+
+  #resultImage {
+    width: 300px;
+    margin-left: 5%;
+  }
+
+  #resultText {
+    margin-left: 10%;
+    font-size: 13px;
+  }
+}
