@@ -76,7 +76,7 @@ body {
 
   #resultText {
     text-align: center;
-
+display: inline-block;
     font-size: 13px;
   }
 }
