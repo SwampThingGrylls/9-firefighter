@@ -59,16 +59,17 @@ body {
   h1 {
     font-size: 20px;
     margin-top: 1%;
-    padding-top: 0;
+    padding-top: 3%;
   }
 
   .center-button {
-    margin-top: 15%;
+    margin-top: 20%;
   }
 
   #resultImage {
-    width: 300px;
-    margin-left: 5%;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   #resultText {
